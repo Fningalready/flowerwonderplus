@@ -429,38 +429,6 @@ __Image Source:__ <a href="https://pixabay.com/">__Pixabay__</a>
     <title>Document</title>
   </head>
   <body>
-    <div class="collapse">
-      <h2>折叠级联版</h2>
-      <div class="collapse-panel">
-        <div class="collapse-title">折叠面板1</div>
-        <div class="collapse-content">
-          <div class="collapse-panel">
-            <div class="collapse-title">折叠面板1-1</div>
-            <div class="collapse-content">
-              折叠内容1-1
-            </div>
-          </div>
-          <div class="collapse-panel">
-            <div class="collapse-title">折叠面板1-2</div>
-            <div class="collapse-content">
-              折叠内容1-2
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="collapse-panel">
-        <div class="collapse-title">折叠面板2</div>
-        <div class="collapse-content">
-          折叠内容2
-        </div>
-      </div>
-      <div class="collapse-panel">
-        <div class="collapse-title">折叠面板3</div>
-        <div class="collapse-content">
-          折叠内容3
-        </div>
-      </div>
-    </div>
     <script>
       function toogleExpand(e) {
         const isActive = this.className.includes('active')
