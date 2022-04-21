@@ -1,0 +1,74 @@
+I"�<h3 id="1-coreopsis">1. Coreopsis</h3>
+<p>Birthdays and anniversaries are ideal occasions for giving Coreopsis flowers as a gift. In flower language, Coreopsis means “always cheery,” which provides a positive message to floral presents for friends, family, and coworkers(Evans, 2021).</p>
+
+<h4 id="tagcampanulales-asteraceae">Tag:<a href="/campanulales">Campanulales</a>, <a href="/asteraceae">Asteraceae</a></h4>
+<p><img src="/images/an1.png" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="2-lilac">2. lilac</h3>
+<p>Lilac flowers are suitable as a present for a variety of events. Lilacs are an excellent choice for anniversaries, and they are the “official” flower of the 8th anniversary(Moulton, 2021).</p>
+
+<h4 id="tagcontortae-oleaceae">Tag:<a href="/contortae">Contortae</a>, <a href="/oleaceae">Oleaceae</a></h4>
+<p><img src="/images/an2.jpg" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="3-pink-peonies">3. Pink Peonies</h3>
+<p>Pink peonies are a flower that perfectly complements the anniversary since they are seen as a sign of a happy marriage, honor, and riches(Mead, 2021).</p>
+
+<h4 id="tagranales-ranunculaceae">Tag:<a href="/ranales">Ranales</a>, <a href="/ranunculaceae">Ranunculaceae</a></h4>
+<p><br />
+<img src="/images/an3.jpg" alt="" />
+<br /></p>
+
+<hr />
+
+<p><strong>Image Source:</strong> <a href="https://pixabay.com/"><strong>Pixabay</strong></a></p>
+
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+ 
+<body>
+    <div style="border: 2px solid lightgray;">
+    <a href="javascript:;" id="btn" style="font-size: 24px; font-style: bold; color:rgb(255, 157, 0);">
+        &gt;&gt;&gt;Reference</a>
+    <span id="content">
+        <br />
+        Evans, L., 2021. <i>Everything You Need to Know About Coreopsis Flowers.</i> [online] Petal Republic. Available at: &lt;https://www.petalrepublic.com/coreopsis-flowers/&gt; [Accessed 12 April 2022].<br /><br />
+        Mead, T., 2021. <i>Sure, It's Gorgeous, But What’s the Meaning Behind the Peony Flower?.</i> [online] Purewow. Available at: &lt;https://www.purewow.com/home/peony-flower-meaning&gt; [Accessed 12 April 2022].<br /><br />
+        Moulton, M., 2021. <i>Ultimate Guide to Lilac Flower Meaning, Symbolism, and Uses.</i> [online] Petal Republic. Available at: &lt;https://www.petalrepublic.com/lilac-flower/&gt; [Accessed 12 April 2022].<br /><br />
+        <br />
+    </span>
+    </div>
+    <script type="text/javascript">
+        //获取button按钮
+        var btn = document.getElementById('btn');
+        //获取p
+        var content = document.getElementById('content');
+        //获取p中的内容
+        var str = content.innerHTML;
+        //定义一个变量，表示当前的状态（收缩、展开）
+        var onOff = true; // true表示展开
+        btn.onclick = function() {
+            if (onOff) {
+                content.innerHTML = str.substr(0, 0);
+            } else {
+                //说明当前状态是收缩的，需要展开
+                content.innerHTML = str
+            }
+            onOff = !onOff; //每点击一次，改变一次展开、收缩状态
+            return false; //阻止a标签的默认事件
+        }
+    </script>
+
+</body>
+ 
+</html>
+:ET

@@ -1,0 +1,69 @@
+I"|<h3 id="1-carnation">1. Carnation</h3>
+<ul>
+  <li>Carnation is a flower that is frequently devoted to mothers. It is the flower that represents ladies the most. The most common graduation flower is presented to graduates who have gotten an exceptional grade or who have finished a degree(Bloom &amp; Wild, 2022).</li>
+  <li>Red carnations represent adoration, reverence, affection, warm love, and desire for the mother, as well as a hope for a long and healthy life for her(Bloom &amp; Wild, 2022).</li>
+  <li>White carnations convey thanks to mother, as well as sorrow and strong thoughts of longing for the late mother(Bloom &amp; Wild, 2022).</li>
+  <li>Pink carnations represent a love of beauty and youth, as well as the desire that moms will always be youthful and lovely. In blessing mother birthday gift, wish mother forever beautiful young(Bloom &amp; Wild, 2022).</li>
+</ul>
+
+<h4 id="tagcentrospermaecaryophyllaceae">Tag:<a href="/centrospermae">Centrospermae</a>,<a href="/caryophyllaceae">Caryophyllaceae</a></h4>
+<p><img src="/images/mom01.jpg" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="2-daisy">2. Daisy</h3>
+<ul>
+  <li>Daisy bouquets are frequently given to new moms as a sign of childbirth and motherhood(Moulton, 2022).</li>
+  <li>This makes them suitable for greeting new moms as well as giving as a gift to honor the maternal figures in your life on Mother’s Day(Moulton, 2022).
+<img src="/images/mom02.jpg" alt="" />
+<br /></li>
+</ul>
+
+<hr />
+
+<p><strong>Image Source:</strong> <a href="https://pixabay.com/"><strong>Pixabay</strong></a></p>
+
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+ 
+<body>
+    <div style="border: 2px solid lightgray;">
+    <a href="javascript:;" id="btn" style="font-size: 24px; font-style: bold; color:rgb(255, 157, 0);">
+        &gt;&gt;&gt;Reference</a>
+    <span id="content">
+        <br />
+        Bloom &amp; Wild. 2022. <i>Bloom &amp; Wild Flower Delivery | Flowers &amp; Gifts.</i> [online] Available at: &lt;https://www.bloomandwild.com/the-symbolism-and-colour-meaning-of-carnations&gt; [Accessed 12 April 2022].<br /><br />
+        Moulton, M., 2022. <i>Daisy flower meaning and symbolism (ultimate guide).</i> [online] Petal Republic. Available at: &lt;https://www.petalrepublic.com/daisy-flower-meaning/&gt;[Accessed 12 April 2022].<br /><br />
+        <br />
+    </span>
+    </div>
+    <script type="text/javascript">
+        //获取button按钮
+        var btn = document.getElementById('btn');
+        //获取p
+        var content = document.getElementById('content');
+        //获取p中的内容
+        var str = content.innerHTML;
+        //定义一个变量，表示当前的状态（收缩、展开）
+        var onOff = true; // true表示展开
+        btn.onclick = function() {
+            if (onOff) {
+                content.innerHTML = str.substr(0, 0);
+            } else {
+                //说明当前状态是收缩的，需要展开
+                content.innerHTML = str
+            }
+            onOff = !onOff; //每点击一次，改变一次展开、收缩状态
+            return false; //阻止a标签的默认事件
+        }
+    </script>
+
+</body>
+ 
+</html>
+:ET

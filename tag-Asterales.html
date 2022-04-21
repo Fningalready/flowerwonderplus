@@ -1,0 +1,131 @@
+---
+layout: default
+title: tag-Asterales
+permalink: /asterales/
+---
+
+{% include hero.html %}
+
+<div class="arhive-head">
+	<div class="container">
+	  <h1 class="archive-title">Tag: Asterales</span></h1>
+	</div>
+  </div>
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			{% if site.posts.size > 0 %}
+				<h4 class="lates-title">Alphabetical Order</h4>
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="collapse">
+      <h2>List</h2>
+      <div class="collapse-panel">
+        <div class="collapse-title">Amaryllis</div>
+        <div class="collapse-content">
+          Pride, The desire to be loved, the courageous pursuit of love, the weak desire to be cared for(Team, 2020)
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Bachelor's button(Cornflower)</div>
+        <div class="collapse-content">
+          Single blessedness<br><br>
+          Blue: meet<br><br>
+          Purple: tenderness and loveliness(Forbes, 2022)<br><br>
+          <img src="../images/bachelor-button.jpg" width="300" />
+
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Marigold</div>
+        <div class="collapse-content">
+          Grief, jealousy
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Yarrow</div>
+        <div class="collapse-content">
+          Both healing and love.(Gaumond, 2021).<br><br>
+          White: Renewal, new beginnings, hope, peace, clarity, and purity(Gaumond, 2021).<br><br>
+          Pink: Love, joy, youthfulness, happiness, and fun(Gaumond, 2021).<br><br>
+          Red: Passion, romantic, courage, power, and strength(Gaumond, 2021).<br><br>
+          Yellow: Warmth, celebration, excitement, friendship, and positivity(Gaumond, 2021).<br><br>
+          Orange: Enthusiasm, gratitude, appreciation, fresh starts, and friendship(Gaumond, 2021).<br><br>
+          <img src="../images/Yarrow.jpg" width="300" />
+        </div>
+      </div>
+
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Reference</div>
+        <div class="collapse-content">
+          Forbes, M., 2022. <i>Bachelor Button Flower: Meaning, Symbolism, and Colors | Pansy Maiden.</i> [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/bachelor-button/> [Accessed 12 April 2022].<br><br>
+          Gaumond, A., 2021. <i>Ultimate Guide to Yarrow (Achillea millefolium).</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/yarrow/#12-common-yarrow-colors-and-the-meaning-amp-symbolism-> [Accessed 12 April 2022].<br><br>
+          Team, P., 2020. <i>Ultimate Guide to Amaryllis Flower Meaning and Symbolism.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/amaryllis-flower-meaning/> [Accessed 12 April 2022].<br><br>
+        </div>
+      </div>
+    </div>
+    <script>
+      function toogleExpand(e) {
+        const isActive = this.className.includes('active')
+        this.className = isActive ? 'collapse-panel' : 'collapse-panel active'
+      }
+      const allPanels = document.querySelectorAll('.collapse-panel')
+      Array.from(allPanels).forEach(item => {
+        item.onclick = toogleExpand
+      })
+    </script>
+  </body>
+  <style>
+    .collapse {
+      padding: 20px;
+      border: 1px solid #ededed;
+    }
+    .collapse-panel {
+      border-top: 1px solid #ededed;
+    }
+    .collapse-title {
+      font-size: 18px;
+      font-weight: bold;
+      line-height: 36px;
+      height: 36px;
+      position: relative;
+      cursor: pointer;
+    }
+    .collapse-title::after {
+      content: '>';
+      position: absolute;
+      top: 0;
+      right: 0;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-content {
+      max-height: 0px;
+      overflow: hidden;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-panel.active .collapse-title::after {
+      transform: rotate(90deg);
+    }
+    .collapse-panel.active .collapse-content {
+      max-height: 4000px;
+      overflow: hidden;
+    }
+  </style>
+</html>

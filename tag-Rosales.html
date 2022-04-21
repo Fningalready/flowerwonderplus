@@ -1,0 +1,137 @@
+---
+layout: default
+title: tag-Rosales
+permalink: /rosales/
+---
+
+{% include hero.html %}
+
+<div class="arhive-head">
+	<div class="container">
+	  <h1 class="archive-title">Tag: Rosales</span></h1>
+	</div>
+  </div>
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			{% if site.posts.size > 0 %}
+				<h4 class="lates-title">Alphabetical Order</h4>
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="collapse">
+      <h2>List</h2>
+      <div class="collapse-panel">
+        <div class="collapse-title">Crab blossom</div>
+        <div class="collapse-content">
+          Fertility, marriage, and love, a sign of youth, surprise, and delight in general(Gaumond, 2022).<br><br>
+          <img src="../images/Crab-blossom.jpg" width="300" />
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">hydrangea</div>
+        <div class="collapse-content">
+           White: hope<br><br>
+           Pink: Romance<br><br>
+           Purple: Reunion<br><br>
+           Blue: Betrayal<br><br>
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Rose</div>
+        <div class="collapse-content">
+          Red: I love you<br><br>
+          Dark crimson: Mourning, death and sadness; An unconscious beauty and a deep expression of love(All Rose Meaning, 2022).<br><br>
+          Pink: joy and happiness(Gold Florist, 2021).<br><br>
+          Light pink: gentleness, grace, and admiration(Gold Florist, 2021).<br><br>
+          Dark pink: “Thank you”(Gold Florist, 2021)<br><br>
+          White: A single white rose is a representation of unity, wisdom, and clarity in one new bound of love(Gold Florist, 2021).<br><br>
+          Yellow: Freedom, happiness, newlywed, new mom, new graduation, and friendship(Gold Florist, 2021).<br><br>
+          <img src="../images/rose.jpg" width="300" />
+        </div>
+      </div>
+
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Sweet Pea</div>
+        <div class="collapse-content">
+          These flowers produce a pleasant impression and are a thoughtful way to express thanks(Rebekah, 2015).<br><br>
+          <img src="../images/Sweet-pea.jpg" width="300" />
+        </div>
+      </div>
+
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Reference</div>
+        <div class="collapse-content">
+          All Rose Meaning. 2022. <i>Good to Know: Dark Red Rose Meaning</i> [online] Available at: <https://allrosemeaning.com/dark-red-rose-meaning/> [Accessed 12 April 2022].<br><br>
+          Gaumond, A., 2022. <i>Crabapple Blossom Meaning, Popular Types, and Uses.</i> [online] Petal Republic. Available at: <https://www.petalrepublic.com/crabapple-blossom/> [Accessed 12 April 2022].<br><br>
+          Gold Florist. 2021. <i>Pink Rose Meaning</i> [online] Available at: <https://www.goldflorist.com/pages/Pink-Rose-Meaning.html> [Accessed 12 April 2022].<br><br>
+          Gold Florist. 2021. <i>Ultimate White Rose Meaning Guide</i> [online] Available at: <https://www.goldflorist.com/pages/White-Rose-Meaning.html> [Accessed 12 April 2022].<br><br>
+          Gold Florist. 2021. <i>Ultimate Yellow Rose Meaning Guide</i> [online] Available at: <https://www.petalrepublic.com/peonies-flowers/> [Accessed 12 April 2022].<br><br>
+          Rebekah, P., 2015. <i>Sweet Pea Flower Meaning and Symbolism.</i> [online] Florgeous. Available at: <https://florgeous.com/sweet-pea-flower-meaning/> [Accessed 12 April 2022].<br><br>
+        </div>
+      </div>
+    </div>
+    <script>
+      function toogleExpand(e) {
+        const isActive = this.className.includes('active')
+        this.className = isActive ? 'collapse-panel' : 'collapse-panel active'
+      }
+      const allPanels = document.querySelectorAll('.collapse-panel')
+      Array.from(allPanels).forEach(item => {
+        item.onclick = toogleExpand
+      })
+    </script>
+  </body>
+  <style>
+    .collapse {
+      padding: 20px;
+      border: 1px solid #ededed;
+    }
+    .collapse-panel {
+      border-top: 1px solid #ededed;
+    }
+    .collapse-title {
+      font-size: 18px;
+      font-weight: bold;
+      line-height: 36px;
+      height: 36px;
+      position: relative;
+      cursor: pointer;
+    }
+    .collapse-title::after {
+      content: '>';
+      position: absolute;
+      top: 0;
+      right: 0;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-content {
+      max-height: 0px;
+      overflow: hidden;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-panel.active .collapse-title::after {
+      transform: rotate(90deg);
+    }
+    .collapse-panel.active .collapse-content {
+      max-height: 4000px;
+      overflow: hidden;
+    }
+  </style>
+</html>

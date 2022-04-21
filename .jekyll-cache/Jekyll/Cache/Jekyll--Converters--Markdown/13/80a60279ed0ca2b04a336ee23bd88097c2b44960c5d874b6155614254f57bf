@@ -1,0 +1,70 @@
+I"!<h3 id="1-cyclamen">1. Cyclamen</h3>
+<p>If you’re not sure what flowers to give as a present, Cyclamen is a good option. Cyclamen plants in pots make a lovely present for almost everyone on your list. Moms, children, sisters, and even that new love interest will appreciate these flowers. Cyclamen are lovely holiday presents and can even be utilized as hostess gifts. The blooms bloom over several months, adding a dash of color to the cold, gloomy days(Jay, 2020).
+<img src="/images/all1.png" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="2-orchid">2. Orchid</h3>
+<p>Potted orchids are also an excellent gifting option, no matter the occasion.</p>
+
+<h4 id="orchidaceae"><a href="/orchidaceae">Orchidaceae</a></h4>
+<p><img src="/images/all2.jpg" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="3-tansy">3. Tansy</h3>
+<p>Tansy flowers are excellent gifts for a wide range of events. Flowers can be given as gifts for birthdays, anniversaries, marriages, or simply as a romantic gesture(Gaumond, 2021).</p>
+
+<h4 id="tagcampanulales-asteraceae">Tag:<a href="/campanulales">Campanulales</a>, <a href="/asteraceae">Asteraceae</a></h4>
+<p><img src="/images/all3.png" alt="" />
+<br /></p>
+
+<hr />
+
+<p><strong>Image Source:</strong> <a href="https://pixabay.com/"><strong>Pixabay</strong></a></p>
+
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+ 
+<body>
+    <div style="border: 2px solid lightgray;">
+    <a href="javascript:;" id="btn" style="font-size: 24px; font-style: bold; color:rgb(255, 157, 0);">
+        &gt;&gt;&gt;Reference</a>
+    <span id="content">
+        <br />
+        Gaumond, A., 2021. *Tansy Flower Meaning, Popular Types, and Uses.* [online] Petal Republic. Available at: &lt;https://www.petalrepublic.com/tansy-flower/&gt; [Accessed 12 April 2022].<br /><br />
+        Jay, N., 2020. *Cyclamen Flower – Meaning and Symbolism.* [online] Symbolsage. Available at: &lt;https://symbolsage.com/cyclamen-flower-meaning/&gt; [Accessed 12 April 2022].<br /><br />
+        <br />
+    </span>
+    </div>
+    <script type="text/javascript">
+        //获取button按钮
+        var btn = document.getElementById('btn');
+        //获取p
+        var content = document.getElementById('content');
+        //获取p中的内容
+        var str = content.innerHTML;
+        //定义一个变量，表示当前的状态（收缩、展开）
+        var onOff = true; // true表示展开
+        btn.onclick = function() {
+            if (onOff) {
+                content.innerHTML = str.substr(0, 0);
+            } else {
+                //说明当前状态是收缩的，需要展开
+                content.innerHTML = str
+            }
+            onOff = !onOff; //每点击一次，改变一次展开、收缩状态
+            return false; //阻止a标签的默认事件
+        }
+    </script>
+
+</body>
+ 
+</html>
+:ET

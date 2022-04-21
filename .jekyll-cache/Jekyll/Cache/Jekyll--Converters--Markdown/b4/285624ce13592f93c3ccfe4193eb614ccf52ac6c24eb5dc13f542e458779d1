@@ -1,0 +1,59 @@
+I"�	<h3 id="1-poppy">1. Poppy</h3>
+<p>The poppy is a memorial flower that is used to honor a loved one who has passed away. Poppy bouquets and sprays are stunning since the blooms are big, cup-shaped, and bright. For funerals and memorial services, especially for soldiers who died while serving or veterans, give the gift of the poppy. Encourage relatives and family members who are suffering from insomnia to get better sleep. Leaving poppy bouquets on graves or monuments as a gift to the deceased(Zoe, 2021).
+<img src="/images/me1.jpg" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="2--willow-branches">2.  Willow Branches</h3>
+<p>In China, some people carry willow branches with them on the day of their Tomb Sweeping or Qingming Festival(Wikipedia, 2022).
+<img src="/images/me2.jpg" alt="" />
+<br /></p>
+
+<hr />
+
+<p><strong>Image Source:</strong> <a href="https://pixabay.com/"><strong>Pixabay</strong></a></p>
+
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+ 
+<body>
+    <div style="border: 2px solid lightgray;">
+    <a href="javascript:;" id="btn" style="font-size: 24px; font-style: bold; color:rgb(255, 157, 0);">
+        &gt;&gt;&gt;Reference</a>
+    <span id="content">
+        <br />
+        Wikipedia. 2021. <i>Qingming Festival.</i> [online] Available at: &lt;https://en.wikipedia.org/wiki/Qingming_Festival&gt; [Accessed 12 April 2022].<br /><br />
+        Zoe, 2021. <i>POPPY FLOWER MEANING AND SYMBOLISM.</i> [online] The African Garden. Available at: &lt;https://theafricangarden.com/poppy-flower-meaning/&gt; [Accessed 12 April 2022].<br /><br />
+        <br />
+    </span>
+    </div>
+    <script type="text/javascript">
+        //获取button按钮
+        var btn = document.getElementById('btn');
+        //获取p
+        var content = document.getElementById('content');
+        //获取p中的内容
+        var str = content.innerHTML;
+        //定义一个变量，表示当前的状态（收缩、展开）
+        var onOff = true; // true表示展开
+        btn.onclick = function() {
+            if (onOff) {
+                content.innerHTML = str.substr(0, 0);
+            } else {
+                //说明当前状态是收缩的，需要展开
+                content.innerHTML = str
+            }
+            onOff = !onOff; //每点击一次，改变一次展开、收缩状态
+            return false; //阻止a标签的默认事件
+        }
+    </script>
+
+</body>
+ 
+</html>
+:ET

@@ -1,0 +1,135 @@
+---
+layout: default
+title: tag-Asparagales
+permalink: /asparagales/
+---
+
+{% include hero.html %}
+
+<div class="arhive-head">
+	<div class="container">
+	  <h1 class="archive-title">Tag: Asparagales</span></h1>
+	</div>
+  </div>
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			{% if site.posts.size > 0 %}
+				<h4 class="lates-title">Alphabetical Order</h4>
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="collapse">
+      <h2>List</h2>
+      <div class="collapse-panel">
+        <div class="collapse-title">Bluebell</div>
+        <div class="collapse-content">
+          Humility
+          Purple: sad, jealous, sad love (get my love and you will be happy), apology (sorry, please forgive me), regret(Aggie Horticulture, 2021).<br><br>
+          Lilac: gentle temperament, romantic feelings, sadness(Aggie Horticulture, 2021).<br><br>
+          White: Loveliness, I'll Pray for You(Aggie Horticulture, 2021).<br><br>
+          Red: your love is full of my heart, your sincerity I receive, thank you, let me move the love(Plant and Flower Dictionary, 2021).<br><br>
+          Peach hyacinth: passion, hope to win heart(Kathleen, 2022).<br><br>
+          Blue: constancy, chastity, joy as if I saw you, noble, rich and melancholy love(Kathleen, 2022).<br><br>
+          Dark blue: because of love and some melancholy(Kathleen, 2022).<br><br>
+          Yellow: Jealousy(Auntyflo, 2022).<br><br>
+          Pink: admiration and romance(Kathleen, 2022).<br><br>
+          <img src="../images/bluebell.jpg" width="300" />    
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Hyacinth</div>
+        <div class="collapse-content">
+          Sport, Game, Play<br><br>
+          Blue Hyacinth:Constancy<br><br>
+          Purple Hyacinth:Sorrow<br><br>
+          Yellow Hyacinth:Jealousy<br><br>
+          White Hyacinth:Loveliness, Prayers for someone(Rebekah, 2021)<br><br>
+          <img src="../images/Hyacinth.jpg" width="300" />
+          
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Lily-of-the-valley</div>
+        <div class="collapse-content">
+          Sweetness, Tears of the Virgin Mary, Humility(Fresh, 2018)<br><br>
+          <img src="../images/Lily-of-the-valley.jpg" width="300" />
+        </div>
+      </div>
+
+
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Reference</div>
+        <div class="collapse-content">
+          Aggie Horticulture. 2022. <i>The Language of Flowers.</i> [online] Available at: <https://aggie-horticulture.tamu.edu/archives/parsons/publications/flowers/flowers.html> [Accessed 12 April 2022].<br><br>
+          Auntyflo. 2022. <i>Yellow Hyacinth Meaning.</i> [online] Available at: <https://www.auntyflo.com/flower-dictionary/yellow-hyacinth> [Accessed 12 April 2022].<br><br>
+          Fresh, F., 2018. <i>May Birth Flower: Lily of the Valley.</i> [online] FTD.com. Available at: <https://www.ftd.com/blog/share/may-birth-flower> [Accessed 12 April 2022].<br><br>
+          Kathleen Karlsen. 2022. <i>Bluebell Flower Meaning - Fairies, Shakespeare, Witches & Dreams.</i> [online] Available at: <https://kathleenkarlsen.com/bluebell-meaning> [Accessed 12 April 2022].<br><br>
+          Plant and Flower Dictionary. 2021. <i>Bluebell Flower Meaning and Symbolism - Plant and Flower Dictionary.</i> [online] Available at: <https://theafricangarden.com/bluebell-flower-meaning/> [Accessed 12 April 2022].<br><br>
+          Rebekah, P., 2021. <i>Hyacinth Flower Meaning and Symbolism.</i> [online] Florgeous. Available at: <https://florgeous.com/hyacinth-flower-meaning/> [Accessed 12 April 2022].<br><br>
+        </div>
+      </div>
+    </div>
+    <script>
+      function toogleExpand(e) {
+        const isActive = this.className.includes('active')
+        this.className = isActive ? 'collapse-panel' : 'collapse-panel active'
+      }
+      const allPanels = document.querySelectorAll('.collapse-panel')
+      Array.from(allPanels).forEach(item => {
+        item.onclick = toogleExpand
+      })
+    </script>
+  </body>
+  <style>
+    .collapse {
+      padding: 20px;
+      border: 1px solid #ededed;
+    }
+    .collapse-panel {
+      border-top: 1px solid #ededed;
+    }
+    .collapse-title {
+      font-size: 18px;
+      font-weight: bold;
+      line-height: 36px;
+      height: 36px;
+      position: relative;
+      cursor: pointer;
+    }
+    .collapse-title::after {
+      content: '>';
+      position: absolute;
+      top: 0;
+      right: 0;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-content {
+      max-height: 0px;
+      overflow: hidden;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-panel.active .collapse-title::after {
+      transform: rotate(90deg);
+    }
+    .collapse-panel.active .collapse-content {
+      max-height: 4000px;
+      overflow: hidden;
+    }
+  </style>
+</html>

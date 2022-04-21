@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+title: Flowerwonder
+logo: logo.svg # You can add own logo.
+description: Our website about the language of flowers
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Ciel Fan, Ziyu Wang, Tian Lan and Charlene Zheng
+  image: all.jpg
+  say-hello: Hello, Here is <strong>Flowerwonder</strong>
+  bio: There are millions of flowers in the world, each with its own meaning, and the number and combination of flowers can mean different things, from <strong>hope</strong>, to <strong>love</strong>, to <strong>good luck</strong>, to <strong>derogatory disappointment</strong> and so on. Knowing what flowers mean helps us to choose the right flowers, whether you want to give them to someone or use them for a special occasion, our website can help you.
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ 
+facebook: https://facebook.com/ 
+dribbble: https://dribbble.com/ 
+instagram: https://instagram.com/ 
+pinterest: https://pinterest.com/ 
+
+
+#-------------------------------
+
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: cielnaaa # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

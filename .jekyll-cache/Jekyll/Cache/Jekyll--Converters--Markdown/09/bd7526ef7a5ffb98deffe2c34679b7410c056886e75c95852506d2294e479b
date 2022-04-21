@@ -1,0 +1,77 @@
+I"<h3 id="1-larkspur">1. Larkspur</h3>
+<p>Larkspur can also assist you in conveying your happiness to your housewarming guests. It’s perfect for housewarmings and other occasions where you want to add some positive energy to the mix(Fresh, 2018).</p>
+
+<h4 id="tagranales-ranunculaceae">Tag:<a href="/ranales">Ranales</a>, <a href="/ranunculaceae">Ranunculaceae</a></h4>
+<p><img src="/images/relo1.jpg" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="2-lemon-balm-plant">2. Lemon Balm Plant</h3>
+<p>A lemon balm plant is a lovely housewarming present since the new homeowner may put it in the garden and enjoy its beauty as well as a variety of home advantages. It wishes the new homeowner a happy and prosperous life in their new house, symbolically(Gaumond, 2021).</p>
+
+<h4 id="tagtubiflorae-lamiaceae">Tag:<a href="/tubiflorae">Tubiflorae</a>, <a href="/lamiaceae">Lamiaceae</a></h4>
+<p><img src="/images/relo2.png" alt="" />
+<br /></p>
+
+<hr />
+
+<h3 id="3-oregano">3. Oregano</h3>
+<ul>
+  <li>Oregano is a great housewarming or hostess present since it may be planted near the house and receive the advantages(Gaumond, 2021).</li>
+  <li>Although cut flowers can be used to add color, texture, and aroma to floral arrangements, it is not a frequent practice(Gaumond, 2021).</li>
+</ul>
+
+<h4 id="tagtubiflorae-lamiaceae-1">Tag:<a href="/tubiflorae">Tubiflorae</a>, <a href="/lamiaceae">Lamiaceae</a></h4>
+<p><img src="/images/relo3.jpg" alt="" /></p>
+
+<hr />
+
+<p><br /></p>
+
+<p><strong>Image Source:</strong> <a href="https://pixabay.com/"><strong>Pixabay</strong></a></p>
+
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+ 
+<body>
+    <div style="border: 2px solid lightgray;">
+    <a href="javascript:;" id="btn" style="font-size: 24px; font-style: bold; color:rgb(255, 157, 0);">
+        &gt;&gt;&gt;Reference</a>
+    <span id="content">
+        <br />
+        Fresh, F., 2018. <i>July Birth Flower: Larkspur.</i> [online] FTD.com. Available at: &lt;https://www.ftd.com/blog/share/july-birth-flower&gt; [Accessed 12 April 2022].<br /><br />
+        Gaumond, A., 2021. <i>Ultimate Guide to Lemon Balm Meaning, Types, and Uses.</i> [online] Petal Republic. Available at: &lt;https://www.petalrepublic.com/lemon-balm/&gt; [Accessed 12 April 2022].<br /><br />
+        Gaumond, A., 2021. <i>Ultimate Guide to Oregano Meaning, Types, and Uses.</i> [online] Petal Republic. Available at: &lt;https://www.petalrepublic.com/oregano/&gt; [Accessed 12 April 2022].<br /><br />
+        <br />
+    </span>
+    </div>
+    <script type="text/javascript">
+        //获取button按钮
+        var btn = document.getElementById('btn');
+        //获取p
+        var content = document.getElementById('content');
+        //获取p中的内容
+        var str = content.innerHTML;
+        //定义一个变量，表示当前的状态（收缩、展开）
+        var onOff = true; // true表示展开
+        btn.onclick = function() {
+            if (onOff) {
+                content.innerHTML = str.substr(0, 0);
+            } else {
+                //说明当前状态是收缩的，需要展开
+                content.innerHTML = str
+            }
+            onOff = !onOff; //每点击一次，改变一次展开、收缩状态
+            return false; //阻止a标签的默认事件
+        }
+    </script>
+
+</body>
+ 
+</html>
+:ET

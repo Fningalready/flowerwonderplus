@@ -1,0 +1,115 @@
+---
+layout: default
+title: tag-Centrospermae
+permalink: /centrospermae/
+---
+
+{% include hero.html %}
+
+<div class="arhive-head">
+	<div class="container">
+	  <h1 class="archive-title">Tag: Centrospermae</span></h1>
+	</div>
+  </div>
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			{% if site.posts.size > 0 %}
+				<h4 class="lates-title">Alphabetical Order</h4>
+			{% endif %}
+		</div>
+	</div>
+</div>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="collapse">
+      <h2>List</h2>
+      <div class="collapse-panel">
+        <div class="collapse-title">Carnation</div>
+        <div class="collapse-content">
+          Fascination, Women Love<br><br>
+          Red: Alas for my poor heart, my heart aches<br><br>
+          White: Sweet, Innocence, Pure love, pure love, Women's good luck gift, innocent(Bloom & Wild, 2022)<br><br>
+          Pink: I'll never forget you<br><br>
+          Yellow: Disdain, Disappointment, Rejection(Bloom & Wild, 2022)<br><br>
+          <img src="../images/carnation.jpg" width="300" />
+        </div>
+      </div>
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Sweet William</div>
+        <div class="collapse-content">
+          Love, grace, thanks, and adoration(Forbes, 2021).<br><br>
+
+          Whites, pinks, reds, purples, and multicolors can be used for grieving, friendship, romance, and fortune, respectively(Forbes, 2021)<br><br>
+          <img src="../images/Sweet-William.jpg" width="300" />
+        </div>
+      </div>
+
+
+
+      <div class="collapse-panel">
+        <div class="collapse-title">Reference</div>
+        <div class="collapse-content">
+          Bloom & Wild. 2022. <i>Carnation flower meaning and colour guide.</i> [online] Available at: <https://www.bloomandwild.com/the-symbolism-and-colour-meaning-of-carnations> [Accessed 12 April 2022].<br><br>
+          Forbes, M., 2021. <i>Sweet William Flower: Meaning, Symbolism, and Colors.</i> [online] Pansy Maiden. Available at: <https://www.pansymaiden.com/flowers/meaning/sweet-william/> [Accessed 12 April 2022].<br><br>
+        </div>
+      </div>
+    </div>
+    <script>
+      function toogleExpand(e) {
+        const isActive = this.className.includes('active')
+        this.className = isActive ? 'collapse-panel' : 'collapse-panel active'
+      }
+      const allPanels = document.querySelectorAll('.collapse-panel')
+      Array.from(allPanels).forEach(item => {
+        item.onclick = toogleExpand
+      })
+    </script>
+  </body>
+  <style>
+    .collapse {
+      padding: 20px;
+      border: 1px solid #ededed;
+    }
+    .collapse-panel {
+      border-top: 1px solid #ededed;
+    }
+    .collapse-title {
+      font-size: 18px;
+      font-weight: bold;
+      line-height: 36px;
+      height: 36px;
+      position: relative;
+      cursor: pointer;
+    }
+    .collapse-title::after {
+      content: '>';
+      position: absolute;
+      top: 0;
+      right: 0;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-content {
+      max-height: 0px;
+      overflow: hidden;
+      transition: all 0.3s ease-out;
+    }
+    .collapse-panel.active .collapse-title::after {
+      transform: rotate(90deg);
+    }
+    .collapse-panel.active .collapse-content {
+      max-height: 4000px;
+      overflow: hidden;
+    }
+  </style>
+</html>

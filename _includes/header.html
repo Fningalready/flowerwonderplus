@@ -1,0 +1,55 @@
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <!-- begin header -->
+      <header class="header">
+
+        <div class="logo">
+          <a class="logo__link" href="{{site.baseurl}}/">
+          {%if site.data.settings.logo %}
+            <img class="logo__image" src="{{ site.baseurl }}/images/{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
+          {% else %}
+            {{ site.data.settings.title }}
+          {% endif %}
+          </a>
+        </div>
+
+        <nav class="main-nav">
+
+          <div class="main-nav__box">
+            <div class="nav-icon__close">
+              <i class="ion ion-ios-close-circle-outline"></i>
+            </div>
+
+            <div class="nav__title">Menu</div>
+
+            <ul class="nav__list list-reset">
+              <li class="nav__item">
+                <a href="{{site.baseurl}}/" class="nav__link">Home</a>
+              </li>
+              {% for page in site.pages %}
+                {% unless page.name == 'tag-Asteraceae.html' or page.name == 'tag-Tubiflorae.html' or page.name == 'tag-Lamiaceae.html'  or page.name == 'tag-Campanulales.html' or page.name == 'tag-Asparagales.html' or page.name == 'tag-Liliflorae.html'or page.name == 'tag-Liliaceae.html' or page.name == 'tag-Asterales.html' or page.name == 'tag-Fabaceae.html' or page.name == 'tag-Rosaceae.html' or page.name == 'tag-Ranales.html' or page.name == 'tag-Ranunculaceae.html' or page.name == 'tag-Parietales.html' or page.name == 'tag-Caryophyllaceae.html' or page.name == 'tag-Centrospermae.html' or page.name == 'tags.html' or page.name == 'tags.html' or page.name == 'tags.html' or page.name == 'tag-rubiales.html' or page.name == 'tag-Convolvulaceae.html' or page.name == 'tag-Oleaceae.html' or page.name == 'tag-Lamiales.html' or page.name == 'tag-Rosales.html' or page.name == 'tag-Rubiaceae.html'  or page.name == 'tag-Boraginaceae.html'  or page.name == 'tag-Contortae.html'  or page.name == 'tag-Orchidaceae.html' or page.name == 'tags.html' or page.name == '404.html' %}
+              {% if page.title %}
+              <!--line above page-->
+              <li class="nav__item">
+                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+              </li>
+              {% endif %}
+                {% endunless %}
+              {% endfor %}
+            </ul>
+
+          </div>
+        </nav>
+
+        <div class="nav-buttons">
+          <i class="nav__icon nav__icon-menu ion ion-md-menu" aria-label="Menu Icon"></i>
+          <i class="nav__icon nav__icon-search ion ion-md-search" aria-label="Search Icon"></i>
+        </div>
+
+        <div class="header__overlay"></div>
+      </header>
+      <!-- end header -->
+    </div>
+  </div>
+</div>
