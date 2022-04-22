@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  FOR RELOCATION
-date:   2021-01-04 15:01:35 +0300
+date:   2022-01-04 15:01:35 +0300
 image:  relo.jpg
 tags:   occasion
 ---

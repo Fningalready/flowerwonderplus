@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ALL FLOWERS E-L
-date:   2020-12-29 15:01:35 +0300
+date:   2021-12-29 15:01:35 +0300
 image:  e-l.jpg
 tags: all-flowers
 ---
@@ -100,7 +100,7 @@ tags: all-flowers
 
 ### Jasmine
 
-* love, romance, and sensuality, purity and motherhood, as well as honor and respect(Moulton, 2021).
+* Love, romance, and sensuality, purity and motherhood, as well as honor and respect(Moulton, 2021).
 
 #### Tag:[Oleaceae](/oleaceae)
 

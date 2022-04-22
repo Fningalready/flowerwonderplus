@@ -1,5 +1,5 @@
 .subscribe {
-  width: 430px;
+  width: 450px;
   max-width: 100%;
   margin: 0 auto 80px;
   text-align: center;
@@ -29,7 +29,7 @@
       text-align: center;
       outline: none;
       border: none;
-      border-bottom: 3px solid $light-gray;
+      border-bottom: 3px solid $gray;
 
       &::placeholder {
         font-size: 18px;

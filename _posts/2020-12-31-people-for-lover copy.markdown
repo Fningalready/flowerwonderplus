@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  FOR FRIENDS
-date:   2020-12-31 18:05:55 +0300
+date:   2021-12-31 18:05:55 +0300
 image:  friends.jpg
 tags:   recipient
 ---

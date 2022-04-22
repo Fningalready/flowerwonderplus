@@ -18,9 +18,9 @@
 }
 
 .search__box {
-  width: 50%;
+  width: 60%;
   margin: 0 auto;
-  padding-top: 100px;
+  padding-top: 120px;
   
   @media only screen and (max-width: $desktop) {
     width: 70%;
@@ -34,15 +34,15 @@
 }
 
 .search__group {
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 
   .search__close {
-    margin-bottom: 30px;
-    font-size: 27px;
+    margin-bottom: 35px;
+    font-size: 30x;
     text-align: right;
     cursor: pointer;
     &:hover {
-      color: $black;
+      color: $gray;
     }
   }
 
@@ -51,9 +51,9 @@
     padding: 20px 20px 20px 30px;
     letter-spacing: 0.5px;
     border-radius: 30px;
-    border: 1px solid #f8f8f8;
+    border: 1px solid #000000;
     color: $dark;
-    background: #f8f8f8;
+    background: #ffffff;
     &::placeholder {
       letter-spacing: 0.5px;
       color: rgba($dark, 0.7);

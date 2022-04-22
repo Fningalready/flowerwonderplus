@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  FOR MOTHER
-date:   2021-01-02 18:05:55 +0300
+date:   2022-01-02 18:05:55 +0300
 image:  mom.jpg
 tags:   recipient
 ---

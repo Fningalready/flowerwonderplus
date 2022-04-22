@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  FOR LOVER
-date:   2021-01-01 18:05:55 +0300
+date:   2022-01-01 18:05:55 +0300
 image:  love.jpg
 tags:   recipient
 ---
