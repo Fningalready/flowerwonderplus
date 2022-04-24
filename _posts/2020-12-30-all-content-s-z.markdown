@@ -8,7 +8,7 @@ tags: all-flowers
 ***
 
 ### Sage
-* Symbol of Wisdom and Immortality, Vice and Virtue.
+* Symbol of wisdom and immortality, vice and virtue.
 <br>
 
 * The ancient Romans and Greeks believed that it represented domestic virtue and satyrs, mythical half-goat, half-men that loved debauchery and drinking at the same time(Walls-Thumma, 2017).
@@ -128,15 +128,15 @@ tags: all-flowers
 ***
 
 # Sunflower
-* Devotion and Loyalty.
+* Devotion and loyalty.
 
-* Peace and Hope.
+* Peace and hope.
 
-* Ambition and Inspiration.
+* Ambition and inspiration.
 
-* Power and Pride.
+* Power and pride.
 
-* Healing and Strength.
+* Healing and strength.
 
 * Splendor, intellectual greatness, as well as pure and lofty thoughts(Jay, 2022).
 
@@ -190,7 +190,7 @@ tags: all-flowers
 ***
 
 # Tansy	
-* Symbol of Protection, immortality, resistance, health(Gaumond, 2021).
+* Symbol of protection, immortality, resistance, health(Gaumond, 2021).
 
 * The connotation of the tansy flower is also linked to negative emotions(Gaumond, 2021).
 
@@ -205,7 +205,7 @@ tags: all-flowers
 
 # Tarragon
 
-* Symbol of Lasting interest.	
+* Symbol of lasting interest.	
 
 #### Tag:[Campanulales](/campanulales), [Asteraceae](/asteraceae)
 <br>
@@ -284,17 +284,17 @@ tags: all-flowers
 ***
 
 # Yarrow
-* The yarrow flower is associated with both healing and love.(Gaumond, 2021).
+* The yarrow flower is associated with both healing and love(Gaumond, 2021).
 
-* White: Renewal, new beginnings, hope, peace, clarity, and purity(Gaumond, 2021).
+* White: renewal, new beginnings, hope, peace, clarity, and purity(Gaumond, 2021).
 
-* Pink: Love, joy, youthfulness, happiness, and fun(Gaumond, 2021).
+* Pink: love, joy, youthfulness, happiness, and fun(Gaumond, 2021).
 
-* Red: Passion, romantic, courage, power, and strength(Gaumond, 2021).
+* Red: passion, romantic, courage, power, and strength(Gaumond, 2021).
 
-* Yellow: Warmth, celebration, excitement, friendship, and positivity(Gaumond, 2021).
+* Yellow: warmth, celebration, excitement, friendship, and positivity(Gaumond, 2021).
 
-* Orange: Enthusiasm, gratitude, appreciation, fresh starts, and friendship(Gaumond, 2021).
+* Orange: enthusiasm, gratitude, appreciation, fresh starts, and friendship(Gaumond, 2021).
 
 #### Tag:[Asterales](/asterales), [Asteraceae](/asteraceae)
 
@@ -306,19 +306,19 @@ tags: all-flowers
 ***
 
 # Zinnia
-* Green: Growth, wealth, money, success, and new starts(Forbes, 2021).
+* Green: growth, wealth, money, success, and new starts(Forbes, 2021).
 
 * Yellow: energy, friendship, youthfulness, Joyfulness, and support(Forbes, 2021).
 
-* White: Purity, recovery, healing, peace, and elegance(Forbes, 2021).
+* White: purity, recovery, healing, peace, and elegance(Forbes, 2021).
 
-* Orange: Power, energy, ambition, success, drive, and family bonds(Forbes, 2021).
+* Orange: power, energy, ambition, success, drive, and family bonds(Forbes, 2021).
 
-* Red: Romantic love, success, health, passion, and good health(Forbes, 2021).
+* Red: romantic love, success, health, passion, and good health(Forbes, 2021).
 
-* Pink: Happiness, gentleness, grace, gentleness, and non-romantic love(Forbes, 2021).
+* Pink: happiness, gentleness, grace, gentleness, and non-romantic love(Forbes, 2021).
 
-* Purple: Elegance, success, wealth, royalty, regalness, and commitment(Forbes, 2021).
+* Purple: elegance, success, wealth, royalty, regalness, and commitment(Forbes, 2021).
 
 #### Tag:[Fabaceae](/fabaceae)
 <br>

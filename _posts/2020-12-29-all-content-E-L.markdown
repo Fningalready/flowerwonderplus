@@ -26,7 +26,7 @@ tags: all-flowers
 
 ### Forget-me-not
 
-* True love memories, Do not forget me	
+* True love memories, do not forget me	
 
 #### Tag:[Tubiflorae](/tubiflorae),[Boraginaceae](/boraginaceae)
 
@@ -50,7 +50,7 @@ tags: all-flowers
 
 ### Gladiolus	
 
-* Flower of the Victory, Integrity, Strength, Gladiators
+* Flower of the victory, integrity, strength, gladiators
 
 ![]({{ site.baseurl }}/images/Gladiolus.jpg)
 <br>
@@ -59,15 +59,15 @@ tags: all-flowers
 
 ### Hyacinth	
 
-* Sport, Game, Play(Rebekah, 2021)
+* Sport, game, play(Rebekah, 2021)
 
-* Blue Hyacinth:Constancy
+* Blue Hyacinth: constancy
 
-* Purple Hyacinth:Sorrow
+* Purple Hyacinth: sorrow
 
-* Yellow Hyacinth:Jealousy
+* Yellow Hyacinth: jealousy
 
-* White Hyacinth:Loveliness, Prayers for someone(Rebekah, 2021)
+* White Hyacinth: loveliness, prayers for someone(Rebekah, 2021)
 
 #### Tag:[Asparagales](/asparagales)
 
@@ -78,7 +78,7 @@ tags: all-flowers
 
 ### Hyssop
 
-* Sacrifice，Cleanliness
+* Sacrifice，cleanliness
 
 #### Tag:[Campanulales](/campanulales)
 
@@ -89,7 +89,7 @@ tags: all-flowers
 
 ### Iris
 
-* Faith，Valor, trust, Wisdom and Hope
+* Faith，valor, trust, wisdom and hope
 
 #### Tag:[Liliflorae](/liliflorae)
 
@@ -170,7 +170,7 @@ tags: all-flowers
 
 ### Lily 
 
-* Virginity, Purity, Heavenly
+* Virginity, purity, heavenly
 
 #### Tag:[Liliflorae](/liliflorae), [Liliaceae](/liliaceae)
 
@@ -181,7 +181,7 @@ tags: all-flowers
 
 # Lily-of-the-valley
 
-* Sweetness, Tears of the Virgin Mary, Humility(Fresh, 2018)
+* Sweetness, tears of the Virgin Mary, humility(Fresh, 2018)
 
 #### Tag:[Asparagales](/asparagales), [Liliaceae](/liliaceae)
 

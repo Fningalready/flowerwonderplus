@@ -216,7 +216,7 @@ tags: all-flowers
 
 * One of the characteristics that distinguishes the yellow rose is that it connotes a true friend.(Gold Florist, 2021).
 
-* Single yellow rose:jealousy and adultery(Gold Florist, 2021).
+* Single yellow rose: jealousy and adultery(Gold Florist, 2021).
 
 #### Tag:[Rosales](/rosales), [Rosaceae](/rosaceae)
 <br>

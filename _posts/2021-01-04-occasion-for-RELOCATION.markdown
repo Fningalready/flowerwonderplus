@@ -6,7 +6,7 @@ image:  relo.jpg
 tags:   occasion
 ---
 ### 1. Larkspur
-Larkspur can also assist you in conveying your happiness to your housewarming guests. It's perfect for housewarmings and other occasions where you want to add some positive energy to the mix(Fresh, 2018).
+* Larkspur can also assist you in conveying your happiness to your housewarming guests. It's perfect for housewarmings and other occasions where you want to add some positive energy to the mix(Fresh, 2018).
 
 #### Tag:[Ranales](/ranales), [Ranunculaceae](/ranunculaceae)
 ![]({{ site.baseurl }}/images/relo1.jpg)
@@ -15,7 +15,7 @@ Larkspur can also assist you in conveying your happiness to your housewarming gu
 ***
 
 ### 2. Lemon Balm Plant
-A lemon balm plant is a lovely housewarming present since the new homeowner may put it in the garden and enjoy its beauty as well as a variety of home advantages. It wishes the new homeowner a happy and prosperous life in their new house, symbolically(Gaumond, 2021).
+* A lemon balm plant is a lovely housewarming present since the new homeowner may put it in the garden and enjoy its beauty as well as a variety of home advantages. It wishes the new homeowner a happy and prosperous life in their new house, symbolically(Gaumond, 2021).
 
 #### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
 ![]({{ site.baseurl }}/images/relo2.png)
