@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  FOR ANNIVERSARY
-date:   2022-01-05 15:01:35 +0300
+date:   2021-01-05 15:01:35 +0300
 image:  an.jpg
 tags:   occasion
 ---
 
 ### 1. Coreopsis
-* Birthdays and anniversaries are ideal occasions for giving Coreopsis flowers as a gift. In flower language, Coreopsis means "always cheery," which provides a positive message to floral presents for friends, family, and coworkers(Evans, 2021).
+Birthdays and anniversaries are ideal occasions for giving Coreopsis flowers as a gift. In flower language, Coreopsis means "always cheery," which provides a positive message to floral presents for friends, family, and coworkers(Evans, 2021).
 
 #### Tag:[Campanulales](/campanulales), [Asteraceae](/asteraceae)
 ![]({{ site.baseurl }}/images/an1.png)
@@ -16,7 +16,7 @@ tags:   occasion
 ***
 
 ### 2. lilac
-* Lilac flowers are suitable as a present for a variety of events. Lilacs are an excellent choice for anniversaries, and they are the "official" flower of the 8th anniversary(Moulton, 2021).
+Lilac flowers are suitable as a present for a variety of events. Lilacs are an excellent choice for anniversaries, and they are the "official" flower of the 8th anniversary(Moulton, 2021).
 
 #### Tag:[Contortae](/contortae), [Oleaceae](/oleaceae)
 ![]({{ site.baseurl }}/images/an2.jpg)
@@ -25,7 +25,7 @@ tags:   occasion
 ***
 
 ### 3. Pink Peonies
-* Pink peonies are a flower that perfectly complements the anniversary since they are seen as a sign of a happy marriage, honor, and riches(Mead, 2021). 
+Pink peonies are a flower that perfectly complements the anniversary since they are seen as a sign of a happy marriage, honor, and riches(Mead, 2021). 
 
 #### Tag:[Ranales](/ranales), [Ranunculaceae](/ranunculaceae)
 <br>

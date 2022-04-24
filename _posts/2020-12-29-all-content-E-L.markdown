@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ALL FLOWERS E-L
-date:   2021-12-29 15:01:35 +0300
+date:   2020-12-29 15:01:35 +0300
 image:  e-l.jpg
 tags: all-flowers
 ---
@@ -26,7 +26,7 @@ tags: all-flowers
 
 ### Forget-me-not
 
-* True love memories, do not forget me	
+* True love memories, Do not forget me	
 
 #### Tag:[Tubiflorae](/tubiflorae),[Boraginaceae](/boraginaceae)
 
@@ -50,7 +50,7 @@ tags: all-flowers
 
 ### Gladiolus	
 
-* Flower of the victory, integrity, strength, gladiators
+* Flower of the Victory, Integrity, Strength, Gladiators
 
 ![]({{ site.baseurl }}/images/Gladiolus.jpg)
 <br>
@@ -59,15 +59,15 @@ tags: all-flowers
 
 ### Hyacinth	
 
-* Sport, game, play(Rebekah, 2021)
+* Sport, Game, Play(Rebekah, 2021)
 
-* Blue Hyacinth: constancy
+* Blue Hyacinth:Constancy
 
-* Purple Hyacinth: sorrow
+* Purple Hyacinth:Sorrow
 
-* Yellow Hyacinth: jealousy
+* Yellow Hyacinth:Jealousy
 
-* White Hyacinth: loveliness, prayers for someone(Rebekah, 2021)
+* White Hyacinth:Loveliness, Prayers for someone(Rebekah, 2021)
 
 #### Tag:[Asparagales](/asparagales)
 
@@ -78,7 +78,7 @@ tags: all-flowers
 
 ### Hyssop
 
-* Sacrifice，cleanliness
+* Sacrifice，Cleanliness
 
 #### Tag:[Campanulales](/campanulales)
 
@@ -89,7 +89,7 @@ tags: all-flowers
 
 ### Iris
 
-* Faith，valor, trust, wisdom and hope
+* Faith，Valor, trust, Wisdom and Hope
 
 #### Tag:[Liliflorae](/liliflorae)
 
@@ -100,7 +100,7 @@ tags: all-flowers
 
 ### Jasmine
 
-* Love, romance, and sensuality, purity and motherhood, as well as honor and respect(Moulton, 2021).
+* love, romance, and sensuality, purity and motherhood, as well as honor and respect(Moulton, 2021).
 
 #### Tag:[Oleaceae](/oleaceae)
 
@@ -170,7 +170,7 @@ tags: all-flowers
 
 ### Lily 
 
-* Virginity, purity, heavenly
+* Virginity, Purity, Heavenly
 
 #### Tag:[Liliflorae](/liliflorae), [Liliaceae](/liliaceae)
 
@@ -181,7 +181,7 @@ tags: all-flowers
 
 # Lily-of-the-valley
 
-* Sweetness, tears of the Virgin Mary, humility(Fresh, 2018)
+* Sweetness, Tears of the Virgin Mary, Humility(Fresh, 2018)
 
 #### Tag:[Asparagales](/asparagales), [Liliaceae](/liliaceae)
 

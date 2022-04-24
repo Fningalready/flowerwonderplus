@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  FOR MEMORY
-date:   2022-01-07 15:01:35 +0300
+date:   2021-01-07 15:01:35 +0300
 image:  me.jpg
 tags:   occasion
 ---
 
 ### 1. Poppy
-* The poppy is a memorial flower that is used to honor a loved one who has passed away. Poppy bouquets and sprays are stunning since the blooms are big, cup-shaped, and bright. For funerals and memorial services, especially for soldiers who died while serving or veterans, give the gift of the poppy. Encourage relatives and family members who are suffering from insomnia to get better sleep. Leaving poppy bouquets on graves or monuments as a gift to the deceased(Zoe, 2021).
+The poppy is a memorial flower that is used to honor a loved one who has passed away. Poppy bouquets and sprays are stunning since the blooms are big, cup-shaped, and bright. For funerals and memorial services, especially for soldiers who died while serving or veterans, give the gift of the poppy. Encourage relatives and family members who are suffering from insomnia to get better sleep. Leaving poppy bouquets on graves or monuments as a gift to the deceased(Zoe, 2021).
 ![]({{ site.baseurl }}/images/me1.jpg)
 <br>
 
 ***
 
 ### 2.  Willow Branches
-* In China, some people carry willow branches with them on the day of their Tomb Sweeping or Qingming Festival(Wikipedia, 2022).
+In China, some people carry willow branches with them on the day of their Tomb Sweeping or Qingming Festival(Wikipedia, 2022).
 ![]({{ site.baseurl }}/images/me2.jpg)
 <br>
 

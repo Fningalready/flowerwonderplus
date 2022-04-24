@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ALL FLOWERS M-R
-date:   2021-12-28 15:01:35 +0300
+date:   2020-12-28 15:01:35 +0300
 image:  m-r.jpg
 tags: all-flowers
 ---
@@ -22,7 +22,7 @@ tags: all-flowers
 
 * Grief
 
-* Jealousy
+* jealousy
 
 #### Tag:[Asterales](/asterales), [Asteraceae](/asteraceae)
 
@@ -216,7 +216,7 @@ tags: all-flowers
 
 * One of the characteristics that distinguishes the yellow rose is that it connotes a true friend.(Gold Florist, 2021).
 
-* Single yellow rose: jealousy and adultery(Gold Florist, 2021).
+* Single yellow rose:jealousy and adultery(Gold Florist, 2021).
 
 #### Tag:[Rosales](/rosales), [Rosaceae](/rosaceae)
 <br>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  FOR ALL OCCASION
-date:   2022-01-03 15:01:35 +0300
+date:   2021-01-03 15:01:35 +0300
 image:  all.jpg
 tags:   occasion
 ---
@@ -15,7 +15,7 @@ If you're not sure what flowers to give as a present, Cyclamen is a good option.
 ### 2. Orchid
 Potted orchids are also an excellent gifting option, no matter the occasion.
 
-#### Tag:[Orchidaceae](/orchidaceae)
+#### [Orchidaceae](/orchidaceae)
 ![]({{ site.baseurl }}/images/all2.jpg)
 <br>
 

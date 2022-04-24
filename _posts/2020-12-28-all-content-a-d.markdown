@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ALL FLOWERS A-D
-date:   2021-12-28 15:01:35 +0300
+date:   2020-12-28 15:01:35 +0300
 image:  a-d.jpg
 tags: all-flowers
 ---
@@ -52,8 +52,8 @@ tags: all-flowers
 
 Anemone: fading love, lost hope and expectation abandoned.
 Anemone (red) : fruitless love affair
-Anemone (purple) : secretly adore
-Anemone (white) : the joy of love(Fresh, 2021)
+Anemone (purple) : Secretly adore
+Anemone (white) : The joy of love(Fresh, 2021)
 
 #### Tag:[Tubiflorae](/tubiflorae), [Convolvulaceae](/convolvulaceae)
 
@@ -159,7 +159,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 ### Belladonna
 
-* Silence and beauty unseen
+* Silence and Beauty unseen
 
 #### Tag:[Tubiflorae](/tubiflorae), [Lamiaceae](/lamiaceae)
 
@@ -173,7 +173,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 * Lilac: gentle temperament, romantic feelings, sadness(Aggie Horticulture, 2021).
 
-* White: loveliness, I'll Pray for You(Aggie Horticulture, 2021).
+* White: Loveliness, I'll Pray for You(Aggie Horticulture, 2021).
 
 * Red: your love is full of my heart, your sincerity I receive, thank you, let me move the love(Plant and Flower Dictionary, 2021).
 
@@ -183,7 +183,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 * Dark blue: because of love and some melancholy(Kathleen, 2022).
 
-* Yellow: jealousy(Auntyflo, 2022).
+* Yellow: Jealousy(Auntyflo, 2022).
 
 * pink: admiration and romance(Kathleen, 2022).
 
@@ -199,7 +199,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 ### Borage	
 
-* Bluntness, directness, courage
+* Bluntness, Directness, Courage
 
 #### Tag:[Tubiflorae](/tubiflorae),[Boraginaceae](/boraginaceae)
 
@@ -216,7 +216,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 * Red: devout, tied together forever.
 
-* Pink: love you all my life(Overnight Flowers, 2020).
+* Pink: Love you all my life(Overnight Flowers, 2020).
 
 <br>
 
@@ -227,7 +227,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 ### Camellia	
 
-* Words of pink camellia: longing For You, Overcome difficulties.
+* Words of pink camellia: Longing For You, Overcome difficulties.
  
 * Tea flower words: natural beauty, modesty of virtue, humility and noble reason(Flower Meaning, 2022).
 
@@ -245,13 +245,13 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 ### Carnation
 #### Fascination, Women Love
 
-* Red carnation: alas for my poor heart, my heart aches
+* Red carnation: Alas for my poor heart, my heart aches
 
-* White carnation: sweet, innocence, pure love, pure love, women’s good luck gift, innocent(Bloom & Wild, 2022)
+* White carnation: Sweet, Innocence, Pure love, pure love, Women’s good luck gift, innocent(Bloom & Wild, 2022)
 
 * Pink carnation: I’ll never forget you
 
-* Yellow carnation: disdain, disappointment, rejection(Bloom & Wild, 2022)
+* Yellow carnation: Disdain, Disappointment, Rejection(Bloom & Wild, 2022)
 
 #### Tag:[Centrospermae](/centrospermae),[Caryophyllaceae](/caryophyllaceae)
 	
@@ -264,7 +264,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 ### Clematis
 
-* Mental beauty, wit and wisdom
+* Mental beauty, Wit and Wisdom
 
 #### Tag:[Ranales](/ranales),[Ranunculaceae](/ranunculaceae)
 
@@ -296,7 +296,7 @@ Purple has a girlish feel, so the language of flowers means tenderness and lovel
 
 ### Crocus, spring
 
-* Cheerfulness, youthful gladness
+* Cheerfulness, Youthful gladness
 
 ***
 
@@ -429,6 +429,38 @@ __Image Source:__ <a href="https://pixabay.com/">__Pixabay__</a>
     <title>Document</title>
   </head>
   <body>
+    <div class="collapse">
+      <h2>折叠级联版</h2>
+      <div class="collapse-panel">
+        <div class="collapse-title">折叠面板1</div>
+        <div class="collapse-content">
+          <div class="collapse-panel">
+            <div class="collapse-title">折叠面板1-1</div>
+            <div class="collapse-content">
+              折叠内容1-1
+            </div>
+          </div>
+          <div class="collapse-panel">
+            <div class="collapse-title">折叠面板1-2</div>
+            <div class="collapse-content">
+              折叠内容1-2
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="collapse-panel">
+        <div class="collapse-title">折叠面板2</div>
+        <div class="collapse-content">
+          折叠内容2
+        </div>
+      </div>
+      <div class="collapse-panel">
+        <div class="collapse-title">折叠面板3</div>
+        <div class="collapse-content">
+          折叠内容3
+        </div>
+      </div>
+    </div>
     <script>
       function toogleExpand(e) {
         const isActive = this.className.includes('active')
